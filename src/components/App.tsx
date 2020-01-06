@@ -198,8 +198,8 @@ export default class App extends React.Component<{}, State> {
           <h1>Multiplayer Tic Tac Toe Game</h1>
           <p>
             Create a private room and share the room id with your friend. Ask
-            your friend to join with the room with that id. Start playing and
-            have fun!
+            your friend to join the room with that id. Start playing and have
+            fun!
           </p>
           <div className="button-container">
             <button
