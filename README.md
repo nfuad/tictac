@@ -2,6 +2,8 @@
 
 React Tic Tac Toe Game. Play it here: https://tictac.now.sh
 
+![tictac](./tictac.png)
+
 ### Developing Locally
 
 Install the dependencies...
