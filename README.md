@@ -2,7 +2,7 @@
 
 React Tic Tac Toe Game. Play it here: https://tictac.now.sh
 
-![tictac](./tictac.png)
+[![tictac](./tictac.png)](https://tictac.now.sh)
 
 ### Developing Locally
 
