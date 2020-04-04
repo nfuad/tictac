@@ -6,8 +6,6 @@ React Tic Tac Toe Game. Play it here: https://tictac.now.sh
 
 ### Developing Locally
 
-Install the dependencies...
-
 ```bash
 # Clone the repo
 git clone https://github.com/nfuad/tictac.git
